@@ -27,3 +27,5 @@ DATABASES = {
         'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
+
+# runserver commond :- python manage.py runserver --settings dsplit.settings.local 
